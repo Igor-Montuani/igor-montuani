@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_igor_montuani_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](Igor.montuani.oliveira)
-  
+<div align="center">  
   <a href="https://github.com/igor-montuani">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igor-montuani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-montuani&layout=compact&langs_count=7&theme=react"/>
@@ -16,10 +16,8 @@
   <img align="center" alt="Igor-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  
-  
-  
-  </div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ </div>
   
   ##
  
