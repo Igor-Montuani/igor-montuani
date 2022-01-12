@@ -1,7 +1,7 @@
 ## Hi I'm Igor Montuani, Future Computer Scientist and Front End Programmer!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_igor_montuani_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](Igor.montuani.oliveira)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Igor.montuani.oliveira)
 <div align="center">  
   <a href="https://github.com/igor-montuani">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igor-montuani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
