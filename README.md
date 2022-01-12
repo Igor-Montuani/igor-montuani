@@ -7,10 +7,18 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igor-montuani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-montuani&layout=compact&langs_count=7&theme=react"/>
 </div>
+
+## Technology of My Day to Day!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Igor-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-
+  <img align="center" alt="Igor-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  
+  
+  
   </div>
   
   ##
