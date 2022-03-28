@@ -2,11 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_igor_montuani_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Igor.montuani.oliveira)
-<div align="center">  
-  <a href="https://github.com/igor-montuani">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igor-montuani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-montuani&layout=compact&langs_count=7&theme=react"/>
-</div>
 
 ## Technology of My Day to Day!
 
@@ -18,6 +13,23 @@
   <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  </div>
+  
+  ## 📊 My Github Stats
+
+  <br/>
+  <a href="https://github.com/igor-montuani/igor-montuani.git"><img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-montuani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauz-hub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/igor-montuani/igor-montuani.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=igor-montuani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
   
   ##
  
