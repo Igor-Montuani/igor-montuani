@@ -42,15 +42,15 @@
 
 <p align="center">
     <a href="https://github.com/igor-montuani/igor-montuani.git">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=igor-montuani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Igor streak" src="https://github-readme-streak-stats.herokuapp.com/?user=igor-montuani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-  <a href="https://github.com/igor-montuani/igor-montuani.git"><img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-montuani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/igor-montuani/igor-montuani.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-montuani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/igor-montuani/igor-montuani.git"><img alt="Igor Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-montuani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/igor-montuani/igor-montuani.git"><img alt="Igor Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-montuani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/igor-montuani/igor-montuani.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=tauz-hub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/igor-montuani/igor-montuani.git"><img alt="IgorActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=igor-montuani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -75,4 +75,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=igor-montuani">
 </a>
-<!--<a href="https://github.com/tauz-hub?tab=followers"><img src="https://img.shields.io/github/followers/tauz-hub?label=Followers&style=social" alt="GitHub Badge"></a>-->
+<!--<a href="https://github.com/igor-montuani?tab=followers"><img src="https://img.shields.io/github/followers/igor-montuani?label=Followers&style=social" alt="GitHub Badge"></a>-->
