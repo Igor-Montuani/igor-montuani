@@ -1,4 +1,16 @@
-## Hi I'm Igor Montuani, Future Computer Scientist and Front End Programmer!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Igor Montuani</h1>
+<h3 align="center">I'm passionate about all kinds of technologies and I'm always looking for more information about this area that is simply wonderful.</h3>
+
+<!--
+## 🙋‍♂️ About Me
+- 🔭 I’m currently working on **Oneberto Company**
+  
+- 🌱 I am currently learning **Web development and mobile systems**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👨‍💻 All of my projects are available at **[My Portfolio(under development)]** 
+- 📫 How to reach me **igor.montuani@outlook.com.br**
+- ⚡ Fun fact **I play piano to soothe my soul.**
+-->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_igor_montuani_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Igor.montuani.oliveira)
@@ -33,6 +45,7 @@
   
   ##
  
-  ![Snake animation](https://github.com/igor-montuani/igor-montuani/blob/output/github-contribution-grid-snake.svg)
+  
+  <!-- ![Snake animation](https://github.com/igor-montuani/igor-montuani/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
