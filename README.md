@@ -13,6 +13,16 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <div style="display: inline_block"><br>
+  <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Igor-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Igor-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ </div>
+    
+<!--
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin"/> </a>
     <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png"  width="48" height="48"/> </a>
@@ -33,7 +43,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" > <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"  width="48" height="48"/> </a> 
    <a align="center"href="https://www.adobe.com/br/products/photoshop/" target="_blank" > <img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png"  width="48" height="48"/> </a> 
-    <a href="https://www.adobe.com/br/products/illustrator" target="_blank" > <img src="https://icons.iconarchive.com/icons/killaaaron/adobe-cc-circles/512/Adobe-Ai-icon.png"  width="48" height="48"/> </a> 
+    <a href="https://www.adobe.com/br/products/illustrator" target="_blank" > <img src="https://icons.iconarchive.com/icons/killaaaron/adobe-cc-circles/512/Adobe-Ai-icon.png"  width="48" height="48"/> </a> -->
     
    
 </p>
